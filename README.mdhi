@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @Deepak987987
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Deepak987987/Deepak987987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Print("hello world "
+num1=input(enter a number) 
+num2=input(enter another number) 
+Result=float(num1+num2) 
